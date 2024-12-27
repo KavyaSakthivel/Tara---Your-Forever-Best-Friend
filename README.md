@@ -38,7 +38,7 @@ Through engaging conversations, Tara empowers users to embrace positivity, self-
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/Tara-1.0.git
+   git clone https://github.com/KavyaSakthivel/Tara-1.0.git
    cd Tara-1.0
    ```
 
