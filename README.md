@@ -66,7 +66,8 @@ Through engaging conversations, Tara empowers users to embrace positivity, self-
 - **AI Engine:** GPT-based conversational AI, Emotion recognition APIs
 - **Voice Interaction:** Speech-to-text and Text-to-speech APIs
 - **Database:** Local storage with encryption
-- **Frontend (Optional):** React.js, Bootstrap
+- **Frontend:** React.js, Bootstrap
+- **Prototype:** Figma
 
 ---
 
