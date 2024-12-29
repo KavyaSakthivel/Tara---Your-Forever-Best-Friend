@@ -161,10 +161,7 @@ For the full Figma prototype, click [here](https://www.figma.com/proto/AVV7lesdj
 </p>
 
 <p align="center">
-  <video width="800" controls>
-    <source src="https://youtu.be/prZEWuUIl4g">
-    Your browser does not support the video tag.
-  </video>
+  <strong><a href="https://youtu.be/prZEWuUIl4g" target="_blank">Working of the App</a></strong>
 </p>
 
 ---
