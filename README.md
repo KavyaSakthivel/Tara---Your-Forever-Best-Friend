@@ -12,6 +12,7 @@
   <summary>🗂️ Table of Contents</summary>
   <ol>
     <li><a href="#project-overview">📖 Project Overview</a></li>
+    <li><a href="#Features">⭐️Features</a></li>
     <li><a href="#setup-instructions">⚙️ Setup Instructions</a></li>
     <li><a href="#dependencies-list">📦 Dependencies</a></li>
     <li><a href="#usage-examples">💡 Usage Examples</a></li>
@@ -26,12 +27,39 @@
 
 **Tara 1.0** is your empathetic and interactive companion, designed to provide personalized mental health support to women and marginalized communities. It’s built with cultural sensitivity, addressing the emotional and psychological challenges unique to these groups, especially in the global south. Tara goes beyond generic mental health solutions by offering:
 
+- **Personalized Experience**: Choose your own avatar, making the interaction uniquely yours. Tara adapts to your preferences, creating a truly personal connection.
+- **Speech-to-Speech Interaction**: Engage in dynamic conversations with Tara using advanced speech-to-text and text-to-speech technology. Talk naturally, and Tara will respond just like a real friend.
 - **Gender-specific support:** Tailored interactions addressing unique emotional needs.
 - **Holistic well-being features:** Prompts for nature activities, hydration, and mindfulness.
 - **Community building:** Connect with meaningful activities through local NGOs.
 
 Through engaging conversations, Tara empowers users to embrace positivity, self-esteem, and emotional health in a safe, private environment.
 
+---
+## ⭐️ Features
+
+Tara 1.0 isn’t just another chatbot; it’s your forever best friend, offering unique features to support your mental well-being:
+
+### 🗣️ A Friend to Talk To
+Sometimes, all you need is someone who listens. Tara is here for you with empathetic, understanding, and culturally sensitive conversations that feel just like chatting with a trusted friend. Whether you’re venting or seeking advice, Tara is always ready to help.
+
+### ✍️ Journaling Made Fun
+Journaling is a proven way to process emotions, and Tara makes it even better! With interactive prompts and streak points, Tara turns journaling into a rewarding and uplifting activity. Keep track of your thoughts and emotions while earning badges for consistency!
+
+### 🌍 Building a Caring Community
+Connect with like-minded individuals and discover meaningful activities that bring positivity into your life. From volunteering opportunities to NGO activities, Tara helps you find purpose and joy in giving back to the world.
+
+With these features, Tara 1.0 is your gateway to a healthier, happier, and more connected you!
+
+---
+## Workflow and Userflow 
+<p align="center">
+  <img src="https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/Tara_logo.jpeg" width="800" height="500" alt="workflow">
+</p>
+
+<p align="center">
+  <img src="https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/Tara_logo.jpeg" width="800" height="500" alt="userflow">
+</p>
 ---
 
 ## ⚙️ Setup Instructions
