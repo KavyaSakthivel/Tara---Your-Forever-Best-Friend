@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/Tara_logo.jpeg" width="800" height="500" alt="Tara 1.0: Your Forever Best Friend">
+  <img src="https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/tara_github.jpg" width="800" height="500" alt="Tara 1.0: Your Forever Best Friend">
 </p>
 
 <div align="center">
