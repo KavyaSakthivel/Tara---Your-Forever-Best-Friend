@@ -158,10 +158,7 @@ For the full Figma prototype, click [here](https://www.figma.com/proto/AVV7lesdj
 
 <p align="center">
   <img src="https://github.com/YourUsername/Tara-1.0/blob/main/path_to_demo_video_or_gif.gif" alt="Tara in Action" width="800">
-</p>
-
-<p align="center">
-  <strong><a href="https://youtu.be/prZEWuUIl4g" target="_blank">Working of the App</a></strong>
+  <strong><a href="https://www.youtube.com/watch?v=prZEWuUIl4g" target="_blank">Working of the App</a></strong>
 </p>
 
 ---
