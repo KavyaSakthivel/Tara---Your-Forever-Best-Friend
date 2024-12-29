@@ -154,10 +154,17 @@ For the full Figma prototype, click [here](https://www.figma.com/proto/AVV7lesdj
 
 ---
 
-## 🎥 The App in Action
+## 🎥 The App in Action and Youtube Video
 
 <p align="center">
   <img src="https://github.com/YourUsername/Tara-1.0/blob/main/path_to_demo_video_or_gif.gif" alt="Tara in Action" width="800">
+</p>
+
+<p align="center">
+  <video width="800" controls>
+    <source src="https://youtu.be/prZEWuUIl4g">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 ---
