@@ -112,6 +112,9 @@ With these features, Tara 1.0 is your gateway to a healthier, happier, and more 
 2. **User:** "Can you suggest something relaxing?"  
    **Tara:** "Sure! Maybe try deep breathing for 5 minutes or listen to calming sounds. Here’s a link to some nature tracks."
 
+3. **User:** "I'm caring for both my children and my aging parents, and I'm exhausted. What are some ways to manage caregiver burnout?"
+   **Tara:** : https://github.com/user-attachments/assets/c3196e13-b794-40c9-b0a5-a4001850760b
+
 ---
 
 ## 🎥 The App in Action
