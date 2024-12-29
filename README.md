@@ -54,11 +54,11 @@ With these features, Tara 1.0 is your gateway to a healthier, happier, and more 
 ---
 ## Workflow and Userflow 
 <p align="center">
-  <img src="https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/Tara_logo.jpeg" width="800" height="500" alt="workflow">
+  <img src="https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/WF.png" width="1000" height="500" alt="workflow">
 </p>
 
 <p align="center">
-  <img src="https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/Tara_logo.jpeg" width="800" height="500" alt="userflow">
+  <img src="https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/userflow.png" width="800" height="500" alt="userflow">
 </p>
 ---
 
