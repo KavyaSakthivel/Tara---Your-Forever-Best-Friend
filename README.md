@@ -123,30 +123,11 @@ With these features, Tara 1.0 is your gateway to a healthier, happier, and more 
 | Name          | Role                     | Contact                              |
 |---------------|--------------------------|--------------------------------------|
 | **Kavya**    | Heart of tara    | [LinkedIn](https://linkedin.com/in/kavya-sakthivel) |
-| **Srikar**   | Mind of Tara            | [LinkedIn](https://linkedin.com/in/lottakki-srikar-vamsi)        |
-| **Aniruth**     | Spinal cord of Tara      | [LinkedIn](https://linkedin.com/in/aniruth)      |
+| **Srikar**   | Mind of Tara            | [LinkedIn](https://linkedin.com/in/kottakki-srikar-vamsi)        |
+| **Anirudh**     | Spinal cord of Tara      | [LinkedIn](https://linkedin.com/in/aniruth)      |
 ---
 
-## 👥 Team Member Details
 
-Meet the incredible team behind Tara 1.0!
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/YourRepo/YourRepoName/blob/main/path_to_kavya_photo.jpg" alt="Kavya Sakthivel" width="150px"><br>
-      <b>Kavya Sakthivel</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/YourRepo/YourRepoName/blob/main/path_to_srikar_photo.jpg" alt="Srikar Vamsi Kottakki" width="150px"><br>
-      <b>Srikar Vamsi Kottakki</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/YourRepo/YourRepoName/blob/main/path_to_aniruth_photo.jpg" alt="Aniruth" width="150px"><br>
-      <b>Aniruth</b>
-    </td>
-  </tr>
-</table>
 
 ## 🔮 Vision for Tara
 
