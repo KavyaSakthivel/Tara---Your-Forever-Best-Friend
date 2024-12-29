@@ -114,7 +114,7 @@ With these features, Tara 1.0 is your gateway to a healthier, happier, and more 
 
 3. **User:** "I'm caring for both my children and my aging parents, and I'm exhausted. What are some ways to manage caregiver burnout?"
    
-   **Tara:** [Listen to the relaxation audio](https://github.com/user-attachments/assets/c3196e13-b794-40c9-b0a5-a4001850760b)
+   **Tara:** [Listen to the audio output](https://github.com/user-attachments/assets/c3196e13-b794-40c9-b0a5-a4001850760b)
 
 ---
 
