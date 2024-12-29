@@ -114,7 +114,7 @@ With these features, Tara 1.0 is your gateway to a healthier, happier, and more 
 
 3. **User:** "I'm caring for both my children and my aging parents, and I'm exhausted. What are some ways to manage caregiver burnout?"
    
-   **Tara:** <audio control><source src="https://github.com/user-attachments/assets/c3196e13-b794-40c9-b0a5-a4001850760b">audio not possible</audio>
+   **Tara:** [Listen to the relaxation audio](https://github.com/user-attachments/assets/c3196e13-b794-40c9-b0a5-a4001850760b)
 
 ---
 
@@ -132,7 +132,7 @@ With these features, Tara 1.0 is your gateway to a healthier, happier, and more 
 |---------------|--------------------------|--------------------------------------|
 | **Kavya**    | Heart of tara    | [LinkedIn](https://linkedin.com/in/kavya-sakthivel) |
 | **Srikar**   | Mind of Tara            | [LinkedIn](https://linkedin.com/in/kottakki-srikar-vamsi)        |
-| **Anirudh**     | Spinal cord of Tara      | [LinkedIn](https://linkedin.com/in/aniruth)      |
+| **Anirudh**     | Spinal cord of Tara      | [LinkedIn](https://linkedin.com/in/anirudh-s-varrier)      |
 ---
 
 
