@@ -62,6 +62,10 @@ With these features, Tara 1.0 is your gateway to a healthier, happier, and more 
 </p>
 ---
 
+## Output from the model 
+
+![output_demo](https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/temp_audio.mp3)
+
 ## ⚙️ Setup Instructions
 
 1. Clone the repository:
