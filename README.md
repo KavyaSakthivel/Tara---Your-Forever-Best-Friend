@@ -81,7 +81,7 @@ With these features, Tara 1.0 is your gateway to a healthier, happier, and more 
 
 3. Run the app:
    ```bash
-   python app.py
+   python rag_app.py
    ```
 
 4. Launch the frontend (optional, if separate):
@@ -94,11 +94,10 @@ With these features, Tara 1.0 is your gateway to a healthier, happier, and more 
 
 ## 📦 Dependencies List
 
-- **Backend:** Python, Flask
-- **AI Engine:** GPT-based conversational AI, Emotion recognition APIs
-- **Voice Interaction:** Speech-to-text and Text-to-speech APIs
+- **Backend:** Python, Streamlit
+- **AI Engine:** Groq-based conversational AI, Emotion recognition APIs
+- **Voice Interaction:** Speech-to-text and Text-to-speech APIs(Groq and Langchain)
 - **Database:** Local storage with encryption
-- **Frontend:** React.js, Bootstrap
 - **Prototype:** Figma
 
 ---
