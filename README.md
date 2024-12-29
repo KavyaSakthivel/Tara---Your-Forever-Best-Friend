@@ -62,9 +62,46 @@ With these features, Tara 1.0 is your gateway to a healthier, happier, and more 
 </p>
 ---
 
-## Output from the model 
+## Figma Prototypes! 
 
-![output_demo](https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/temp_audio.mp3)
+<p align="center">
+  <img src="https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/Figma_SS/Landingpage.png" alt="Prototype Image 1" width="800" height="500">
+  <br>
+  <b>Prototype Image 1: Landing Page</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/Figma_SS/journal.png" alt="Prototype Image 2" width="800" height="500">
+  <br>
+  <b>Prototype Image 2: Journaling Page</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/Figma_SS/NGO.png" alt="Prototype Image 3" width="800" height="500">
+  <br>
+  <b>Prototype Image 3: Community Page</b>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/Figma_SS/selecttherapist.png" alt="Therapist Image 1" width="395" height="250">
+    </td>
+    <td align="center">
+      <img src="https://github.com/KavyaSakthivel/Tara---Your-Forever-Best-Friend/blob/main/Figma_SS/therapist.png" alt="Therapist Image 2" width="395" height="250">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <b>Therapist Choosing and the Therapist</b>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+For the full Figma prototype, click [here](https://www.figma.com/proto/AVV7lesdjDMe9wrvL7dPJF/GenAi?node-id=18-24&p=f&t=mD3GvxtVGmCIrUSR-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=18%3A24).
 
 ## ⚙️ Setup Instructions
 
